@@ -1,22 +1,109 @@
 {
-  "employees": [
+  "fetch-user-profile": [
     {
       "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "firstName": "Sebastian",
+      "lastName": "Eschweiler",
+      "email": "demo@gmail.com",
+      "address": [
+        {
+          "id": "asd-adkj213-567123",
+          "firstName": "Samuel",
+          "lastName": "Jackson",
+          "mobileNumber": "9856325478",
+          "areaCode": "658952",
+          "locality": "Time Square",
+          "city": "New York City",
+          "alternatePhoneNumber": "8888888888",
+          "typeOfAddress": "work"
+        },
+        {
+          "id": "asd-adkj213-123123",
+          "firstName": "Michael",
+          "lastName": "Fraunhauffer",
+          "mobileNumber": "5623598745",
+          "areaCode": "365214",
+          "locality": "Time Square",
+          "city": "New York City",
+          "alternatePhoneNumber": "8888888888",
+          "typeOfAddress": "other"
+        }
+      ]
     },
     {
       "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
+      "firstName": "Steve",
+      "lastName": "Palmer",
       "email": "steve@codingthesmartway.com"
     },
     {
       "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
+      "firstName": "Ann",
+      "lastName": "Smith",
       "email": "ann@codingthesmartway.com"
     }
-  ]
+  ],
+  "fetch-categories": [
+    {
+      "name": "electronics",
+      "catId": "fw-234",
+      "subCategories": [
+        {
+          "catId": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "name": "fashion",
+      "catId": "",
+      "subCategories": [
+        {
+          "catId": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "name": "home and kitchen",
+      "catId": "",
+      "subCategories": [
+        {
+          "catId": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "name": "beauty and fragrance",
+      "catId": "",
+      "subCategories": [
+        {
+          "catId": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "name": "baby and kids",
+      "catId": "",
+      "subCategories": [
+        {
+          "catId": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "name": "deals",
+      "catId": "",
+      "subCategories": [
+        {
+          "catId": "",
+          "name": ""
+        }
+      ]
+    }
+  ],
+  "fetch-dashboard-banner-details": []
 }
