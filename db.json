@@ -105,5 +105,214 @@
       ]
     }
   ],
-  "fetch-dashboard-banner-details": []
+  "fetch-dashboard-banner-details": [
+    {
+      "id": "1",
+      "imgUrl": "https://rukminim1.flixcart.com/flap/1688/280/image/614f5288d387863b.jpg?q=50"
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://rukminim1.flixcart.com/flap/1688/280/image/fe0fdf911e24c3b7.jpg?q=50"
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://rukminim1.flixcart.com/flap/1688/280/image/4a4a041b1cb541f4.jpg?q=50"
+    }
+  ],
+  "fetch-carousal-product-list": [
+    {
+      "productName": "Airfryer Mechanical - 3.4 L, 1300 W AF 3501 - M Black",
+      "productCategory": "Fashion",
+      "productSubCategory": "Men's Fashion",
+      "brand": "Puma",
+      "price": "2,239",
+      "prevPrice": "3,300",
+      "currency": "AED",
+      "discount": "15",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImage": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1568636323/N28431691A_1.jpg",
+      "id": 1
+    },
+    {
+      "productName": "2-Slice Bread Toaster, 700W TA01105 Milk White",
+      "productCategory": "Fashion",
+      "productSubCategory": "Men's Fashion",
+      "brand": "Provogue",
+      "price": "4,000",
+      "prevPrice": "4,500",
+      "currency": "AED",
+      "discount": "15",
+      "rating": "3.9",
+      "totalRatings": "1,772",
+      "heroImage": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1571139454/N29227703A_8.jpg",
+      "id": 2
+    },
+    {
+      "productName": "6-Piece Granite/Marble Coated Aluminium Cookware Set… ",
+      "productCategory": "Fashion",
+      "productSubCategory": "Men's Fashion",
+      "brand": "Reebok",
+      "price": "3,999",
+      "prevPrice": "4,700",
+      "currency": "AED",
+      "discount": "28",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImage": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1574085587/N17109502A_15.jpg",
+      "id": 3
+    },
+    {
+      "productName": "Realme 5s (Crystal Blue, 128 GB)",
+      "productCategory": "Fashion",
+      "productSubCategory": "Men's Fashion",
+      "brand": "Sparx",
+      "price": "1,200",
+      "prevPrice": "1,800",
+      "currency": "AED",
+      "discount": "10",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImage": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/v/w/c/x-128-u-rmx1901-realme-8-original-imafgzg9yvran9r3.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "productName": "Realme X (Space Blue, 128 GB)",
+      "productCategory": "Fashion",
+      "productSubCategory": "Men's Fashion",
+      "brand": "Reebok",
+      "price": "3,999",
+      "prevPrice": "5,600",
+      "currency": "AED",
+      "discount": "28",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImage": "https://rukminim1.flixcart.com/image/312/312/k1fbmvk0/mobile/k/b/e/mi-redmi-8-mzb8250in-original-imafhyabpggagngr.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "productName": "Lenovo Ideapad 130 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 130-15IKB Laptop  (15.6 inch, Black, 2.1 kg)",
+      "productCategory": "Fashion",
+      "productSubCategory": "Women's Fashion",
+      "brand": "vaidehi",
+      "price": "2,000",
+      "prevPrice": "2,900",
+      "currency": "AED",
+      "discount": "10",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImage": "https://rukminim1.flixcart.com/image/312/312/jz7az680/computer/b/3/k/lenovo-na-laptop-original-imafj9wscwkeyu45.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "productName": "Amayra Women's Cotton Anarkali Kurti(Blue)",
+      "productCategory": "Fashion",
+      "productSubCategory": "Women's Fashion",
+      "brand": "Amarya",
+      "price": "4,099",
+      "prevPrice": "4,199",
+      "currency": "AED",
+      "discount": "20",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImage": "https://rukminim1.flixcart.com/image/150/150/k0wqwsw0/wall-clock/g/g/b/round-wall-clock-957-gold-analog-ajanta-original-imafkhkfdempaphb.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "productName": "Garment Steamer, 1.3 L Capacity, 1800W HY - 288 Black",
+      "productCategory": "Fashion",
+      "productSubCategory": "Women's Fashion",
+      "brand": "Sparx",
+      "price": "999",
+      "prevPrice": "1,099",
+      "currency": "AED",
+      "discount": "10",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImage": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1570427257/N28431698A_1.jpg",
+      "id": 8
+    }
+  ],
+  "fetch-product": [
+    {
+      "id": "1",
+      "heroImageUrl": "https://demo2.madrasthemes.com/electro/wp-content/uploads/2016/03/1.jpg",
+      "category": "accesories",
+      "subCategory": "headphones",
+      "name": "Ultra Wireless S50 Headphones S50 with Bluetooth",
+      "productImagesUrl": [
+        "https://demo2.madrasthemes.com/electro/wp-content/uploads/2016/03/4-100x100.jpg",
+        "https://demo2.madrasthemes.com/electro/wp-content/uploads/2016/03/4-100x100.jpg",
+        "https://demo2.madrasthemes.com/electro/wp-content/uploads/2016/03/5-100x100.jpg",
+        "https://demo2.madrasthemes.com/electro/wp-content/uploads/2016/03/3-100x100.jpg",
+        "https://demo2.madrasthemes.com/electro/wp-content/uploads/2016/03/2-100x100.jpg"
+      ]
+    }
+  ],
+  "fetch-schedular-products": [
+    {
+      "id": "1",
+      "schedularImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/console-banner.png",
+      "schedularGraphicsText": "https://wig-wams-s3-bucket.s3.amazonaws.com/deals-text.png",
+      "schedularProductImage": "https://wig-wams-s3-bucket.s3.amazonaws.com/console.png",
+      "category": "electronics",
+      "subCategory": "gaming",
+      "name": "Game Console Controller + USB 3.0 Cable",
+      "price": "90",
+      "currency": "AED",
+      "totalUnits": "25",
+      "soldUnits": "9",
+      "counter": {
+        "timeToEnd": "Wed Jan 16 2020 19:57:52",
+        "originalPrice": "99"
+      }
+    },
+    {
+      "id": "2",
+      "schedularImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/tv-schedular.png",
+      "schedularGraphicsText": "https://wig-wams-s3-bucket.s3.amazonaws.com/deals-text.png",
+      "schedularProductImage": "https://wig-wams-s3-bucket.s3.amazonaws.com/tv.png",
+      "category": "electronics",
+      "subCategory": "television",
+      "name": "Widescreen 4K SUHD TV",
+      "price": "3299.00",
+      "currency": "AED",
+      "totalUnits": "32",
+      "soldUnits": "5"
+    },
+    {
+      "id": "3",
+      "schedularImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/console-banner.png",
+      "schedularGraphicsText": "https://wig-wams-s3-bucket.s3.amazonaws.com/deals-text.png",
+      "schedularProductImage": "https://wig-wams-s3-bucket.s3.amazonaws.com/console.png",
+      "category": "electronics",
+      "subCategory": "gaming",
+      "name": "Game Console Controller + USB 3.0 Cable",
+      "price": "90",
+      "currency": "AED",
+      "totalUnits": "25",
+      "soldUnits": "9",
+      "counter": {
+        "timeToEnd": "Wed Jan 16 2020 14:47:52 GMT+0530",
+        "originalPrice": "99"
+      }
+    },
+    {
+      "id": "4",
+      "schedularImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/console-banner.png",
+      "schedularGraphicsText": "https://wig-wams-s3-bucket.s3.amazonaws.com/deals-text.png",
+      "schedularProductImage": "https://wig-wams-s3-bucket.s3.amazonaws.com/console.png",
+      "category": "electronics",
+      "subCategory": "gaming",
+      "name": "Game Console Controller + USB 3.0 Cable",
+      "price": "90",
+      "currency": "AED",
+      "totalUnits": "25",
+      "soldUnits": "9",
+      "counter": {
+        "timeToEnd": "Wed Jan 16 2020 20:47:52 GMT+0530",
+        "originalPrice": "99"
+      }
+    }
+  ]
 }
