@@ -43,6 +43,48 @@
       "email": "ann@codingthesmartway.com"
     }
   ],
+  "fetch-category-grid-banner-cards": [
+    {
+      "src": "wp-content/uploads/2018/04/cat-22-330x308.png",
+      "alt": "Home &amp; Audio Enternteinment",
+      "title": "Home &amp; Audio Enternteinment"
+    },
+    {
+      "src": "wp-content/uploads/2018/04/cat-2-330x308.png",
+      "alt": "Smartphones &amp; Tablets",
+      "title": "Smartphones &amp; Tablets"
+    },
+    {
+      "src": "wp-content/uploads/2018/04/cat-3-330x308.png",
+      "alt": "Desktop PCs &amp; Laptops",
+      "title": "Desktop PCs &amp; Laptops"
+    },
+    {
+      "src": "wp-content/uploads/2018/04/cat-4-330x308.png",
+      "alt": "Video Games &amp; Consoles",
+      "title": "Video Games &amp; Consoles"
+    },
+    {
+      "src": "wp-content/uploads/2018/04/cat-5-330x308.png",
+      "alt": "Gadgets &amp; Accesories",
+      "title": "Gadgets &amp; Accesories"
+    },
+    {
+      "src": "wp-content/uploads/2018/04/cat-6-330x308.png",
+      "alt": "Photo Cameras",
+      "title": "Photo Cameras"
+    },
+    {
+      "src": "wp-content/uploads/2018/04/cat-5-330x308.png",
+      "alt": "Gadgets &amp; Accesories",
+      "title": "Gadgets &amp; Accesories"
+    },
+    {
+      "src": "wp-content/uploads/2018/04/cat-6-330x308.png",
+      "alt": "Photo Cameras",
+      "title": "Photo Cameras"
+    }
+  ],
   "fetch-categories": [
     {
       "name": "electronics",
@@ -342,11 +384,11 @@
     }
   ],
   "fetch-special-discount-product": {
-    "id": "1",
+    "id": "789",
     "discountDealImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/console.png",
     "name": "Game Console Controller + USB 3.0 Cable",
     "price": "90",
-    "currency": "AED",
+    "currency": "AEDED",
     "totalUnits": "25",
     "soldUnits": "9",
     "counter": {
