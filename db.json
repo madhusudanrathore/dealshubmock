@@ -585,5 +585,84 @@
       "currency": "AED",
       "price": "749.49"
     }
-  ]
+  ],
+  "fetch-batch-discount-deals": {
+    "id": "8564",
+    "counter": {
+      "timeToEnd": "Wed Jan 16 2020 20:47:52 GMT+0530",
+      "originalPrice": "99"
+    },
+    "products": [
+      {
+        "productName": "Airfryer Mechanical - 3.4 L, 1300 W AF 3501 - M Black",
+        "productCategory": "Fashion",
+        "productSubCategory": "Men's Fashion",
+        "brand": "Puma",
+        "price": "2,239",
+        "prevPrice": "3,300",
+        "currency": "AED",
+        "discount": "15",
+        "rating": "4.5",
+        "totalRatings": "5,372",
+        "heroImage": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1568636323/N28431691A_1.jpg",
+        "id": 1
+      },
+      {
+        "productName": "2-Slice Bread Toaster, 700W TA01105 Milk White",
+        "productCategory": "Fashion",
+        "productSubCategory": "Men's Fashion",
+        "brand": "Provogue",
+        "price": "4,000",
+        "prevPrice": "4,500",
+        "currency": "AED",
+        "discount": "15",
+        "rating": "3.9",
+        "totalRatings": "1,772",
+        "heroImage": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1571139454/N29227703A_8.jpg",
+        "id": 2
+      },
+      {
+        "productName": "6-Piece Granite/Marble Coated Aluminium Cookware Set… ",
+        "productCategory": "Fashion",
+        "productSubCategory": "Men's Fashion",
+        "brand": "Reebok",
+        "price": "3,999",
+        "prevPrice": "4,700",
+        "currency": "AED",
+        "discount": "28",
+        "rating": "4.5",
+        "totalRatings": "5,372",
+        "heroImage": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1574085587/N17109502A_15.jpg",
+        "id": 3
+      },
+      {
+        "productName": "Realme 5s (Crystal Blue, 128 GB)",
+        "productCategory": "Fashion",
+        "productSubCategory": "Men's Fashion",
+        "brand": "Sparx",
+        "price": "1,200",
+        "prevPrice": "1,800",
+        "currency": "AED",
+        "discount": "10",
+        "rating": "4.5",
+        "totalRatings": "5,372",
+        "heroImage": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/v/w/c/x-128-u-rmx1901-realme-8-original-imafgzg9yvran9r3.jpeg?q=70",
+        "id": 4
+      },
+      {
+        "productName": "Realme X (Space Blue, 128 GB)",
+        "productCategory": "Fashion",
+        "productSubCategory": "Men's Fashion",
+        "brand": "Reebok",
+        "price": "3,999",
+        "prevPrice": "5,600",
+        "currency": "AED",
+        "discount": "28",
+        "rating": "4.5",
+        "totalRatings": "5,372",
+        "heroImage": "https://rukminim1.flixcart.com/image/312/312/k1fbmvk0/mobile/k/b/e/mi-redmi-8-mzb8250in-original-imafhyabpggagngr.jpeg?q=70",
+        "id": 5
+      }
+    ]
+  }
 }
