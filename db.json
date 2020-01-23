@@ -664,5 +664,66 @@
         "id": 5
       }
     ]
-  }
+  },
+  "search": [
+    {
+      "query": "macbook",
+      "category": "laptops",
+      "products": [
+        {
+          "name": "MacBook Air 13.3-Inch Retina Display, Core i5 with 1.6GHz Dual Core Processor/8GB RAM/128GB SSD/Intel UHD Graphics 617/English Keyboard -  2019 Space Grey",
+          "brand": "Puma",
+          "price": "2,239",
+          "prevPrice": "3,300",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "4.5",
+          "totalRatings": "5,372",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/s/v/n/apple-na-thin-and-light-laptop-original-imafgwevstseefc9.jpeg?q=70",
+          "id": 1
+        },
+        {
+          "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "1.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "query": "iphone",
+      "products": [
+        {
+          "name": "Airfryer Mechanical - 3.4 L, 1300 W AF 3501 - M Black",
+          "brand": "Puma",
+          "price": "2,239",
+          "prevPrice": "3,300",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "4.5",
+          "totalRatings": "5,372",
+          "heroImageUrl": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1568636323/N28431691A_1.jpg",
+          "id": 1
+        },
+        {
+          "name": "2-Slice Bread Toaster, 700W TA01105 Milk White",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "3.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://k.nooncdn.com/t_desktop-thumbnail-v2/v1571139454/N29227703A_8.jpg",
+          "id": 2
+        }
+      ]
+    }
+  ]
 }
