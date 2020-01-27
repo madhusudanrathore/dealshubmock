@@ -669,6 +669,47 @@
     {
       "query": "macbook",
       "category": "laptops",
+      "filters": [
+        {
+          "id": "1",
+          "name": "brand",
+          "values": [
+            "Apple",
+            "Samsung",
+            "Dell",
+            "Micosoft",
+            "iBall"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "cpu type",
+          "values": [
+            "Intel Core i5",
+            "Intel Core i7"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "weight",
+          "values": [
+            "Up to 0.9 kg",
+            "1 - 1.4 kg",
+            "2 - 2.5 kg",
+            "2.5 kg and more"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "operating system",
+          "values": [
+            "Windows",
+            "Linux",
+            "DoS",
+            "MacOS"
+          ]
+        }
+      ],
       "products": [
         {
           "name": "MacBook Air 13.3-Inch Retina Display, Core i5 with 1.6GHz Dual Core Processor/8GB RAM/128GB SSD/Intel UHD Graphics 617/English Keyboard -  2019 Space Grey",
@@ -693,6 +734,78 @@
           "totalRatings": "1,772",
           "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
           "id": 2
+        },
+        {
+          "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "1.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+          "id": 3
+        },
+        {
+          "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "1.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+          "id": 4
+        },
+        {
+          "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "1.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+          "id": 5
+        },
+        {
+          "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "1.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+          "id": 6
+        },
+        {
+          "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "1.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+          "id": 7
+        },
+        {
+          "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+          "brand": "Provogue",
+          "price": "4,000",
+          "prevPrice": "4,500",
+          "currency": "AED",
+          "discount": "15",
+          "rating": "1.9",
+          "totalRatings": "1,772",
+          "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+          "id": 8
         }
       ]
     },
@@ -724,6 +837,56 @@
           "id": 2
         }
       ]
+    }
+  ],
+  "fetch-cart-products": [
+    {
+      "name": "MacBook Air 13.3-Inch Retina Display, Core i5 with 1.6GHz Dual Core Processor/8GB RAM/128GB SSD/Intel UHD Graphics 617/English Keyboard -  2019 Space Grey",
+      "brand": "Puma",
+      "price": "2,239",
+      "prevPrice": "3,300",
+      "currency": "AED",
+      "discount": "15",
+      "rating": "4.5",
+      "totalRatings": "5,372",
+      "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/s/v/n/apple-na-thin-and-light-laptop-original-imafgwevstseefc9.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+      "brand": "Provogue",
+      "price": "4,000",
+      "prevPrice": "4,500",
+      "currency": "AED",
+      "discount": "15",
+      "rating": "1.9",
+      "totalRatings": "1,772",
+      "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+      "brand": "Provogue",
+      "price": "4,000",
+      "prevPrice": "4,500",
+      "currency": "AED",
+      "discount": "15",
+      "rating": "1.9",
+      "totalRatings": "1,772",
+      "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
+      "brand": "Provogue",
+      "price": "4,000",
+      "prevPrice": "4,500",
+      "currency": "AED",
+      "discount": "15",
+      "rating": "1.9",
+      "totalRatings": "1,772",
+      "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
+      "id": 4
     }
   ]
 }
