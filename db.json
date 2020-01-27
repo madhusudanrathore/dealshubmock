@@ -388,7 +388,7 @@
     "discountDealImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/console.png",
     "name": "Game Console Controller + USB 3.0 Cable",
     "price": "90",
-    "currency": "AEDED",
+    "currency": "AED",
     "totalUnits": "25",
     "soldUnits": "9",
     "counter": {
@@ -580,6 +580,20 @@
     },
     {
       "id": "2",
+      "dispImageUrl": "wp-content/uploads/2016/02/DesktopPC-e1523629711911.jpg",
+      "displaytext": "Tablets, Smartphones and more",
+      "currency": "AED",
+      "price": "749.49"
+    },
+    {
+      "id": "4",
+      "dispImageUrl": "wp-content/uploads/2016/02/cameras.jpg",
+      "displaytext": "Catch Hottest Deals in Cameras Category",
+      "currency": "AED",
+      "price": "219.19"
+    },
+    {
+      "id": "4",
       "dispImageUrl": "wp-content/uploads/2016/02/DesktopPC-e1523629711911.jpg",
       "displaytext": "Tablets, Smartphones and more",
       "currency": "AED",
