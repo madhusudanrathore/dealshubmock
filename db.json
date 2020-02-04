@@ -85,7 +85,7 @@
       "title": "Photo Cameras"
     }
   ],
-  "fetch-categories": [
+  "fetch-app-categories": [
     {
       "name": "electronics",
       "catId": "fw-234",
@@ -681,8 +681,8 @@
   },
   "search": [
     {
-      "query": "macbook",
-      "category": "laptops",
+      "query": "FRYER",
+      "category": "ALL",
       "filters": [
         {
           "id": "1",
@@ -877,30 +877,152 @@
       "totalRatings": "1,772",
       "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
       "id": 2
-    },
-    {
-      "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
-      "brand": "Provogue",
-      "price": "4,000",
-      "prevPrice": "4,500",
-      "currency": "AED",
-      "discount": "15",
-      "rating": "1.9",
-      "totalRatings": "1,772",
-      "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
-      "id": 3
-    },
-    {
-      "name": "MacBook Air 13.3-inch Retina Display, Core i5 Processor/8GB RAM/256GB SSD/Integrated Graphics/English Keyboard 2018 Gold",
-      "brand": "Provogue",
-      "price": "4,000",
-      "prevPrice": "4,500",
-      "currency": "AED",
-      "discount": "15",
-      "rating": "1.9",
-      "totalRatings": "1,772",
-      "heroImageUrl": "https://rukminim1.flixcart.com/image/312/312/jyq5oy80/computer/r/g/d/apple-na-thin-and-light-laptop-original-imafgwew9puxqp3k.jpeg?q=70",
-      "id": 4
     }
-  ]
+  ],
+  "fetch-user-ratings": {
+    "total": "278",
+    "final": "4.5",
+    "overall": [
+      {
+        "id": "1",
+        "rating": "23"
+      },
+      {
+        "id": "2",
+        "rating": "56"
+      },
+      {
+        "id": "3",
+        "rating": "83"
+      },
+      {
+        "id": "4",
+        "rating": "49"
+      },
+      {
+        "id": "5",
+        "rating": "67"
+      }
+    ]
+  },
+  "fetch-user-reviews": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "review": "Fusce vitae nibh mi. Integer posuere, libero et ullamcorper facilisis, enim eros tincidunt orci, eget vestibulum sapien nisi ut leo. Cras finibus vel est ut mollis. Donec luctus condimentum ante et euismod.",
+      "date": "June 18, 2019",
+      "rating": "3"
+    },
+    {
+      "id": "2",
+      "name": "Anna Kowalsky",
+      "review": "Fusce vitae nibh mi. Integer posuere, libero et ullamcorper facilisis, enim eros tincidunt orci, eget vestibulum sapien nisi ut leo. Cras finibus vel est ut mollis. Donec luctus condimentum ante et euismod.",
+      "date": "August 3, 2018",
+      "rating": "2"
+    },
+    {
+      "id": "3",
+      "name": "Peter Wargner",
+      "review": "Fusce vitae nibh mi. Integer posuere, libero et ullamcorper facilisis, enim eros tincidunt orci, eget vestibulum sapien nisi ut leo. Cras finibus vel est ut mollis. Donec luctus condimentum ante et euismod.",
+      "date": "July 3, 2018",
+      "rating": "5"
+    }
+  ],
+  "fetch-brands-carousel": [
+    {
+      "id": "1",
+      "name": "geepas",
+      "heroImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/geepas-logo.png"
+    },
+    {
+      "id": "2",
+      "name": "krypton",
+      "heroImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/krypton-logo.png"
+    },
+    {
+      "id": "3",
+      "name": "olsenmark",
+      "heroImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/olsenmark-logo.png"
+    },
+    {
+      "id": "4",
+      "name": "geepas",
+      "heroImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/geepas-logo.png"
+    },
+    {
+      "id": "5",
+      "name": "krypton",
+      "heroImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/krypton-logo.png"
+    },
+    {
+      "id": "6",
+      "name": "olsenmark",
+      "heroImageUrl": "https://wig-wams-s3-bucket.s3.amazonaws.com/olsenmark-logo.png"
+    }
+  ],
+  "fetch-admin-category-products": [
+    {
+      "thumbnailImageUrl": "",
+      "name": "Product 1",
+      "displayId": "465",
+      "uuid": "dh34947"
+    },
+    {
+      "thumbnailImageUrl": "",
+      "name": "Product 2",
+      "displayId": "987",
+      "uuid": "uyei274"
+    }
+  ],
+  "create-admin-categories": [
+    {
+      "name": "category",
+      "listingType": "carousel",
+      "products": [
+        "dh34947",
+        "uyei274"
+      ]
+    }
+  ],
+  "fetch-admin-categories": [
+    {
+      "uuid": "hf67383",
+      "name": "category",
+      "listingType": "carousel",
+      "products": [
+        {
+          "thumbnailImageUrl": "",
+          "name": "Product 1",
+          "displayId": "987",
+          "uuid": "uyei274"
+        },
+        {
+          "thumbnailImageUrl": "",
+          "name": "Product 2",
+          "displayId": "368",
+          "uuid": "hdf836"
+        }
+      ],
+      "createdBy": "user-1",
+      "modifiedBy": "user-2",
+      "modifiedOn": "date",
+      "isPublished": true
+    }
+  ],
+  "update-admin-category": {
+    "uuid": "hf67383",
+    "name": "category",
+    "listingType": "carousel",
+    "products": [
+      "uyei274",
+      "hdf836"
+    ],
+    "isPublished": true
+  },
+  "delete-admin-category": {
+    "uuid": "498"
+  },
+  "publish-admin-category": {
+    "uuid": "378"
+  }
 }
